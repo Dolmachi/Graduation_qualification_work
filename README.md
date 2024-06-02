@@ -23,6 +23,7 @@
 
 В качестве моделей машинного обучения взяты следующие алгоритмы:
 - LogisticRegression
+- GaussianNB
 - RandomForest
 - LightGBM
 
@@ -31,6 +32,3 @@
 
 - :computer: [Ноутбук проекта](https://github.com/Dolmachi/Graduation_qualification_work/blob/master/Model.ipynb)
 - :page_facing_up: [Данные](https://github.com/Dolmachi/Graduation_qualification_work/tree/master/data)
-
-#### Установка библиотек
-```pip install -r requirements.txt```
